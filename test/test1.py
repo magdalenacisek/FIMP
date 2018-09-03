@@ -17,4 +17,4 @@ result = seasonal_decompose(data, model='multiplicative')
 fig = result.plot()
 plot_mpl(fig)
 
-print "test"
+print "test Magda"
